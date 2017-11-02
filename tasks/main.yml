@@ -4,5 +4,5 @@
 - name: Ping server
   ping:   
 
-- name: ls current dir  
+- name: ls current directory
   command: ls -al
