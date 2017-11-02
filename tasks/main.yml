@@ -1,2 +1,5 @@
 ---
 # tasks file for test_role
+
+- name: Ping server
+  ping:   
