@@ -3,3 +3,6 @@
 
 - name: Ping server
   ping:   
+
+- name: ls current dir  
+  command: ls -al
